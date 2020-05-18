@@ -293,6 +293,8 @@ li{
 	color: rgba(255,255,255,0.9);
 }
 
-a{
+.a-footer{
 	text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: black;
 }
