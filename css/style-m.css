@@ -1,0 +1,138 @@
+#div-portrait{
+	width: 200px;
+	height: 200px;
+}
+
+#img-portrait{
+    width: 300px;
+    height: auto;
+    left: -14%;
+}
+
+#h1-header{
+	margin-top: 1vh;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 400;
+	text-align: center;
+}
+
+#flex-about{
+    width: 90%;
+}
+
+#lien-header {
+    width: 45%;
+    margin-top: 3vh;
+    font-size: 21px;
+}
+
+#div-img-about{
+	
+}
+
+#div-about{
+	width: 100%;
+	padding-top: 9vh;
+}
+
+#img-about{
+    top: 16.7vh;
+}
+
+#span-img{
+    top: 15.4vh;
+    height: 18.7vh;
+}
+
+
+#h1-about{
+	padding-top: 2%;
+    padding-left: 0px;
+    text-align: center;
+    width: 50%;
+    margin-left: 37.5%;
+    transform: translateX(-37.5%);
+}
+
+#span-about{
+    width: 35%;
+    height: 2vh;
+    top: 12.7vh;
+    left: 30%;
+}
+
+#text-about {
+    width: 91%;
+    padding: 9vh 0px 0px 9%;
+    font-size: 20px;
+    line-height: 200%;
+}
+
+#lien-about {
+    width: 20%;
+    margin-top: 9vh;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+#cv-section{
+
+	position: relative;
+	height: 100vh;
+}
+
+#img-cv {
+	position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    height: auto;
+    width: 100%;
+}
+
+#span-portfolio {
+    top: 11.1vh;
+    left: 43%;
+    width: 25%;
+    height: 2vh;
+}
+
+.figure-portfolio{
+	width: 90%;
+	margin-top: 5vh;
+}
+
+.img-portfolio{
+	position: relative;
+    width: 95%;
+    margin-left: 2.5%;
+    height: auto;
+    margin-top: 0px;
+}
+
+.a-portfolio{
+	display: block;
+    left: 2.5%;
+    width: 95%;
+    height: 100%;
+    line-height: 6em;
+    padding-top: 0px;
+    margin-top: 0px;
+    font-size: 350%;
+}
+
+.tel-impair {
+    left: -5%;
+}
+
+.tel-pair {
+    right: -5%;
+}
+
+ul{
+	width: 85%;
+	margin: 0px;
+}
+
+li{
+	font-size: 140%;
+}

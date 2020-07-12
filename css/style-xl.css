@@ -1,0 +1,130 @@
+#div-portrait{
+	width: 400px;
+	height:400px;
+}
+
+#img-portrait{
+    width: 600px;
+    height: auto;
+}
+
+#h1-header{
+	font-size: 300%;
+}
+
+#flex-about{
+    width: 90%;
+}
+
+#lien-header {
+    width: 400px;
+    font-size: 200%;
+}
+
+#div-img-about{
+	
+}
+
+#div-about{
+	padding-top: 20vh;
+}
+
+#img-about{
+    top: 14vh;
+}
+
+#span-img{
+    top: 11.4vh;
+    height: 41.4vh;
+}
+
+
+#h1-about{
+	font-size: 330%;
+    padding-left: 9%;
+}
+
+#span-about{
+    width: 22%;
+    height: 2vh;
+    top: 22vh;
+    left: 9.5%;
+}
+
+#text-about {
+    width: 91%;
+    padding: 9vh 0px 0px 9%;
+    font-size: 200%;
+    line-height: 200%;
+}
+
+#lien-about {
+    width: 20%;
+    font-size: 220%;
+    margin-top: 8.5vh;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+#cv-section{
+
+	position: relative;
+	height: 100vh;
+}
+
+#img-cv {
+	position: absolute;
+    height: 100vh;
+    width: auto;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+#h1-portfolio{
+    font-size: 330%;
+}
+
+#span-portfolio {
+    top: 10.7vh;
+    left: 47%;
+    width: 13%;
+    height: 2vh;
+}
+
+.figure-portfolio{
+	width: 90%;
+	margin-top: 5vh;
+}
+
+.img-portfolio{
+	position: relative;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-top: 0px;
+}
+
+.a-portfolio{
+    left: 2.5%;
+    width: 95%;
+    height: 100%;
+    line-height: 11em;
+    margin-top: 0px;
+    font-size: 650%;
+}
+
+.tel-impair {
+    left: -5%;
+}
+
+.tel-pair {
+    right: -5%;
+}
+
+ul{
+	width: 85%;
+	margin: 0px;
+}
+
+li{
+	font-size: 140%;
+}

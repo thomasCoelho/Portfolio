@@ -1,0 +1,118 @@
+#div-portrait{
+	width: 200px;
+	height: 200px;
+}
+
+#img-portrait{
+    width: 300px;
+    height: auto;
+    left: -14%;
+}
+
+#h1-header{
+	margin-top: 1vh;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: 400;
+	text-align: center;
+}
+
+#lien-header {
+    width: 65%;
+}
+
+#div-img-about{
+	display: none;
+}
+
+#div-about{
+	width: 100%;
+	padding-top: 2vh;
+}
+
+
+#h1-about{
+	padding-left: 0px;
+	width: 100%;
+    text-align: center;
+}
+
+#span-about{
+	width: 55%;
+	height: 3vh;
+	top: 5.5vh;
+	left: 26.5%;
+}
+
+#text-about {
+    width: 100%;
+    padding: 9vh 0px 0px 0px;
+    line-height: 200%;
+}
+
+#lien-about {
+    width: 20%;
+    margin-top: 9vh;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+#cv-section{
+
+	position: relative;
+	height: 100vh;
+}
+
+#img-cv {
+	position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    height: auto;
+    width: 100%;
+}
+
+#span-portfolio {
+    top: 11.5vh;
+    left: 38%;
+    width: 31%;
+    height: 2.5vh;
+}
+
+.figure-portfolio{
+	width: 90%;
+	margin-top: 5vh;
+}
+
+.img-portfolio{
+	position: relative;
+    width: 95%;
+    margin-left: 2.5%;
+    height: auto;
+    margin-top: 0px;
+}
+
+.a-portfolio{
+	display: block;
+    left: 2.5%;
+    width: 95%;
+    height: 100%;
+    line-height: 4em;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.tel-impair {
+    left: -10px;
+}
+
+.tel-pair {
+    right: -10px;
+}
+
+ul{
+	width: 80%;
+	margin: 0px;
+}
+
+li{
+	font-size: 90%;
+}
