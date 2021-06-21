@@ -20,6 +20,11 @@
     width: 65%;
 }
 
+#about-section{
+	min-height: 100vh;
+	padding-bottom: 7.5vh;
+}
+
 #div-img-about{
 	display: none;
 }
@@ -59,14 +64,12 @@
 #cv-section{
 
 	position: relative;
-	height: 100vh;
+	min-height: 100vh;
 }
 
 #img-cv {
-	position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
     height: auto;
+    min-height: 100vh;		
     width: 100%;
 }
 
